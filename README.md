@@ -6,6 +6,13 @@ The look is **Pixelramp**: palette-aware upscale (2× or 8×), bloom, distance l
 
 This GitHub copy is a placeholder for now. The working tree on disk is larger than what is published here.
 
+
+
+
+
+
+
+
 ## What lives in the local project
 
 | Piece | Role |
