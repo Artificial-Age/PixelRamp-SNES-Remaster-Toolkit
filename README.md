@@ -1,4 +1,4 @@
-# Realtime SNES Filter
+# PIXEL RAMP SNES REMASTER TOOL KIT 
 
 A realtime remaster look for Super Nintendo games, running inside a patched [Snes9x](https://github.com/snes9xgit/snes9x) rather than as a screenshot filter.
 
@@ -13,8 +13,6 @@ This GitHub copy is a placeholder for now. The working tree on disk is larger th
 | `snes9x-1.63/` | Forked Snes9x with Pixelramp in the video-filter dropdown |
 | `native/pixelramp_gpu/` | Shared analyze + D3D11 compute core (also a standalone viewer) |
 | `csharp/` | Remaster Studio — one Avalonia executable for painting sprite rules |
-| `Python Test/` | Offline authoring, goldens, and research tools |
-| `configs/` / `docs/` | Per-game scene JSON, ADRs, and system notes |
 
 Snes9x is the host. Remaster Studio is the authoring tool a player would actually run. Python stays for goldens and experiments, not for shipping.
 
