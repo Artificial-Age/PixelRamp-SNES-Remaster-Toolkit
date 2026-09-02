@@ -1,3 +1,4 @@
+<img width="1434" height="807" alt="Thumbnail Pixel 169" src="https://github.com/user-attachments/assets/fffcac63-164a-4665-9f29-757568eaf067" />
 # PIXEL RAMP SNES REMASTER TOOL KIT 
 
 A realtime remaster look for Super Nintendo games, running inside a patched [Snes9x](https://github.com/snes9xgit/snes9x) rather than as a screenshot filter.
@@ -6,11 +7,7 @@ The look is **Pixelramp**: palette-aware upscale (2× or 8×), bloom, distance l
 
 This GitHub copy is a placeholder for now. The working tree on disk is larger than what is published here.
 
-
-
-
-
-
+<img width="1434" height="807" alt="Thumbnail Pixel 169" src="https://github.com/user-attachments/assets/9d149fb3-978f-4ae7-a0a6-6dab2e54c34c" />
 
 
 ## What lives in the local project
