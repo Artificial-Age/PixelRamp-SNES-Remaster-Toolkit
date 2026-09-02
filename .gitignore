@@ -1,0 +1,36 @@
+# Build output
+bin/
+obj/
+publish/
+_Intermediate/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.user
+*.suo
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Local deps / scratch
+_deps_tmp/
+build_output.log
+
+# ROMs and dumps — never publish
+*.smc
+*.sfc
+*.fig
+*.swc
+*.bin
+*.srm
+*.frz
+*.zst
+*.png
+*.bmp
+*.jpg
+
+# Capture / scene working copies next to the exe
+snes9x-1.63/win32/pixelramp_capture_*.json
+snes9x-1.63/win32/captures_prefix/
+snes9x-1.63/win32/stdout.txt
