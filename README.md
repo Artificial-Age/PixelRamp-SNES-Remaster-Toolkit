@@ -6,9 +6,10 @@ The look is **Pixelramp**: palette-aware upscale (2× or 8×), bloom, distance l
 
 This GitHub copy is a placeholder for now. The working tree on disk is larger than what is published here.
 
+Watch the Demo Video Here 
+
 [![Watch the video](https://img.youtube.com/vi/f5eBDgdht-A/maxresdefault.jpg)](https://www.youtube.com/watch?v=f5eBDgdht-A)
 
-<img width="1434" height="807" alt="Thumbnail Pixel 169" src="https://github.com/user-attachments/assets/9d149fb3-978f-4ae7-a0a6-6dab2e54c34c" />
 
 
 ## What lives in the local project
